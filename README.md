@@ -52,6 +52,6 @@ python FCFS.py   # example run FCFS algorithm
 - Course: Operating Systems
 - Team: Team 9
 - Member(s): 
- - Jim Seanghai
- - Lun Sokheng
- - Loun Rotha
+  - Jim Seanghai
+  - Lun Sokheng
+  - Loun Rotha
