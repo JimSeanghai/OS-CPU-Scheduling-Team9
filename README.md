@@ -32,4 +32,5 @@ This simulator allows users to input processes and observe how the CPU schedules
 ```bash
 git clone https://github.com/your-username/OS-CPU-Scheduling.git
 cd OS-CPU-Scheduling/code
+python FCFS.py   # example run FCFS algorithm
 
