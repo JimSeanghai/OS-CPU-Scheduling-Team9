@@ -44,3 +44,14 @@ python FCFS.py   # example run FCFS algorithm
 
 ## Youtube Video Link
 ### FCFS Algorithm : https://youtu.be/jX8m141UqUI?si=rTiDycjvEmDwnzAg
+---
+## About US
+IDT CADT (Cambodia)
+Department: Telecommunications and Networking
+Specialization: Cybersecurity
+Course: Operating Systems
+Team: Team 9
+Member(s): 
+- Jim Seanghai
+- Lun Sokheng
+- Loun Rotha
