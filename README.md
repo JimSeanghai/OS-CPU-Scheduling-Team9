@@ -28,11 +28,11 @@ This simulator allows users to input processes and observe how the CPU schedules
 - Python 3.x
 
 ### Example 
-[FCFS Output](https://github.com/JimSeanghai/OS-CPU-Scheduling-Team9/blob/4eca31753c507f1525731143bb6e903149b6c17a/fcfs%20output%20img.png)
+![FCFS Output](https://github.com/JimSeanghai/OS-CPU-Scheduling-Team9/blob/4eca31753c507f1525731143bb6e903149b6c17a/fcfs%20output%20img.png)
 - After Run this Code
 - Choose Y/N for default input exam (In this image, I choose N for own Input)
-- Read the instruction input requirement Until end
-- Display Result as CLI
+- Read the instruction input requirement Until the end
+- Finally, Result will display as CLI
   
 ###  Installation
 
@@ -40,4 +40,7 @@ This simulator allows users to input processes and observe how the CPU schedules
 git clone https://github.com/your-username/OS-CPU-Scheduling.git
 cd OS-CPU-Scheduling/code
 python FCFS.py   # example run FCFS algorithm
+````
 
+## Youtube Video Link
+### FCFS Algorithm : https://youtu.be/jX8m141UqUI?si=rTiDycjvEmDwnzAg
