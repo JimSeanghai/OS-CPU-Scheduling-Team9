@@ -1,16 +1,16 @@
 # OS-CPU-Scheduling-Team9
 CPU Scheduling Simulator implementation.
 
-# 📘 CPU Scheduling Algorithm Simulator
+# CPU Scheduling Algorithm Simulator
 
-## 📌 Project Overview
+## Project Overview
 The **CPU Scheduling Algorithm Simulator** is a Python-based project that demonstrates how different CPU scheduling algorithms work in an Operating System.
 
 This simulator allows users to input processes and observe how the CPU schedules them using different algorithms. It also calculates important performance metrics and displays results using a **Gantt Chart**.
 
 ---
 
-## 🎯 Objectives
+## Objectives
 - Understand CPU scheduling concepts
 - Implement multiple scheduling algorithms
 - Compare algorithm performance
@@ -22,13 +22,18 @@ This simulator allows users to input processes and observe how the CPU schedules
 
 ---
 
-## ⚙️ Setup and Installation
+## Setup and Installation
 
-### 🔹 Requirements
+### Requirements
 - Python 3.x
 
-### 🔹 Installation
+### Installation
 
 ```bash
 git clone https://github.com/your-username/OS-CPU-Scheduling.git
 cd OS-CPU-Scheduling/code
+python codename.py 
+
+---
+
+[Output Sample]()
