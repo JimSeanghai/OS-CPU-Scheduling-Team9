@@ -3,22 +3,22 @@ CPU Scheduling Simulator implementation.
 
 # CPU Scheduling Algorithm Simulator
 
-<<<<<<< HEAD
+
 ## Project Overview
-=======
+
 ##  Project Overview
->>>>>>> 131d022b1b862bd44444d5ed2fddd876696e0e72
+
 The **CPU Scheduling Algorithm Simulator** is a Python-based project that demonstrates how different CPU scheduling algorithms work in an Operating System.
 
 This simulator allows users to input processes and observe how the CPU schedules them using different algorithms. It also calculates important performance metrics and displays results using a **Gantt Chart**.
 
 ---
 
-<<<<<<< HEAD
+
 ## Objectives
-=======
+
 ##  Objectives
->>>>>>> 131d022b1b862bd44444d5ed2fddd876696e0e72
+
 - Understand CPU scheduling concepts
 - Implement multiple scheduling algorithms
 - Compare algorithm performance
@@ -32,12 +32,12 @@ This simulator allows users to input processes and observe how the CPU schedules
 
 ## Setup and Installation
 
-<<<<<<< HEAD
+
 ### Requirements
 - Python 3.x
 
 ### Installation
-=======
+
 ###  Requirements
 - Python 3.x
 
@@ -49,7 +49,6 @@ This simulator allows users to input processes and observe how the CPU schedules
 - Finally, Result will display as CLI
   
 ###  Installation
->>>>>>> 131d022b1b862bd44444d5ed2fddd876696e0e72
 
 ```bash
 git clone https://github.com/your-username/OS-CPU-Scheduling.git
@@ -60,7 +59,7 @@ python codename.py
 ---
 
 [Output Sample]()
-=======
+
 python FCFS.py   # example run FCFS algorithm
 ````
 
@@ -81,4 +80,3 @@ python FCFS.py   # example run FCFS algorithm
   - Jim Seanghai
   - Lun Sokheng
   - Loun Rotha
->>>>>>> 131d022b1b862bd44444d5ed2fddd876696e0e72
