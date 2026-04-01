@@ -66,6 +66,10 @@ python FCFS.py   # example run FCFS algorithm
 
 ## Youtube Video Link
 ### FCFS Algorithm : https://youtu.be/jX8m141UqUI?si=rTiDycjvEmDwnzAg
+### SRT & RR : https://youtu.be/YhhB2TwFvP0?si=tqJt0OXicCGEt90H
+### SJF Algorithm : https://youtu.be/kZu7YzQJ5jM?si=HRXVEjCVR9PtKHlF 
+### MLFQ Algorithm : https://youtu.be/fDlardnyOdA?si=GAIjdg4MVXyhV2d5
+
 ---
 ## About US
 - IDT CADT (Cambodia)
